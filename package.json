@@ -1,0 +1,15 @@
+{
+  "name": "expressjs_rest",
+  "version": "1.0.0",
+  "description": "my first express.js rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noam avisrur",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
